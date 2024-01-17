@@ -1,0 +1,32 @@
+INFO:Intel Kernel:Booted system
+INFO:Instruction:NOP
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=1
+INFO:Instruction:NOP
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=2
+INFO:Instruction:NOP
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=3
+INFO:Instruction:JMP
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=18d4
+INFO:Instruction:LXI
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=18d7
+INFO:Instruction:MVI
+INFO:CPU:
+a=0, b=0, c=0, d=0, e=0, h=0, l=0
+s=False, z=False, cy=False, p=False
+sp=ffff, pc=18d9
+INFO:Instruction:CALL
